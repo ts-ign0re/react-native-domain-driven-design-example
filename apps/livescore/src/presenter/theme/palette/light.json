@@ -1,0 +1,21 @@
+{
+  "$ui01": "#DDDDDD",
+  "$ui02": "#EBF0F6",
+  "$ui03": "#FFFFFF",
+  "$label01": "#333333",
+  "$label02": "#54606E",
+  "$label03": "#CDD6E2",
+  "$brand01": "#FC6471",
+  "$brand02": "#7D5BA6",
+  "$brand03": "#F7FDAC",
+  "$red": "#FF3B30",
+  "$orange": "#FF9500",
+  "$yellow": "#FFCC00",
+  "$green": "#34C759",
+  "$teal": "#5AC8FA",
+  "$blue": "#007AFF",
+  "$indigo": "#5856D6",
+  "$purple": "#AF52DE",
+  "$pink": "#FF2D55",
+  "$shadow": "#CBD4E2"
+}

@@ -1,0 +1,90 @@
+{
+  "$caption01": {
+    "fontFamily": "Roboto-Regular",
+    "fontSize": "10rem",
+    "lineHeight": "12rem",
+    "fontWeight": "400"
+  },
+  "$caption02": {
+    "fontFamily": "Roboto-Regular",
+    "fontSize": "12rem",
+    "lineHeight": "16rem",
+    "fontWeight": "400"
+  },
+  "$button01": {
+    "fontFamily": "Roboto-Medium",
+    "fontSize": "12rem",
+    "lineHeight": "16rem",
+    "fontWeight": "600",
+    "textTransform": "uppercase"
+  },
+  "$button02": {
+    "fontFamily": "Roboto-Medium",
+    "fontSize": "14rem",
+    "lineHeight": "20rem",
+    "fontWeight": "600",
+    "textTransform": "uppercase"
+  },
+  "$button03": {
+    "fontFamily": "Roboto-Medium",
+    "fontSize": "16rem",
+    "lineHeight": "24rem",
+    "fontWeight": "600",
+    "textTransform": "uppercase"
+  },
+  "$body01": {
+    "fontFamily": "Roboto-Regular",
+    "fontSize": "14rem",
+    "lineHeight": "20rem",
+    "fontWeight": "400"
+  },
+  "$body02": {
+    "fontFamily": "Roboto-Regular",
+    "fontSize": "16rem",
+    "lineHeight": "24rem",
+    "fontWeight": "400"
+  },
+  "$heading01": {
+    "fontFamily": "Roboto-Medium",
+    "fontSize": "12rem",
+    "lineHeight": "16rem",
+    "fontWeight": "500",
+    "textTransform": "uppercase"
+  },
+  "$heading02": {
+    "fontFamily": "Roboto-Medium",
+    "fontSize": "14rem",
+    "lineHeight": "20rem",
+    "fontWeight": "500"
+  },
+  "$heading03": {
+    "fontFamily": "Roboto-Medium",
+    "fontSize": "16rem",
+    "lineHeight": "24rem",
+    "fontWeight": "500"
+  },
+  "$display01": {
+    "fontFamily": "Pacifico-Regular",
+    "fontSize": "20rem",
+    "lineHeight": "28rem",
+    "fontWeight": "500"
+  },
+  "$display02": {
+    "fontFamily": "Pacifico-Regular",
+    "fontSize": "24rem",
+    "lineHeight": "32rem",
+    "fontWeight": "500"
+  },
+  "$display03": {
+    "fontFamily": "Pacifico-Regular",
+    "fontSize": "32rem",
+    "lineHeight": "46rem",
+    "fontWeight": "500"
+  },
+  "$display04": {
+    "fontFamily": "Pacifico-Regular",
+    "fontSize": "40rem",
+    "lineHeight": "58rem",
+    "fontWeight": "300"
+  }
+}

@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`disabled roles Roles shouldn't be rendered 1`] = `
+<View
+  style={
+    [
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <span
+    style={
+      [
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      style={
+        [
+          undefined,
+          undefined,
+        ]
+      }
+    >
+      Some text
+    </Text>
+  </span>
+</View>
+`;
+
+exports[`disabled roles Should merge classes 1`] = `
+<View
+  style={
+    [
+      {
+        "flex": 2,
+      },
+      {
+        "flex": 1,
+      },
+    ]
+  }
+/>
+`;
+
+exports[`disabled roles Should pass style to the child 1`] = `
+<View
+  style={
+    [
+      {
+        "flex": 2,
+      },
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`disabled roles Should pass unknown props to the child 1`] = `
+<View
+  style={
+    [
+      undefined,
+      undefined,
+    ]
+  }
+  unknownProp="value"
+/>
+`;
+
+exports[`enabled roles Roles should be rendered 1`] = `
+<View
+  accessibilityLabel="parent"
+  style={
+    [
+      undefined,
+      undefined,
+    ]
+  }
+  testID="parent"
+>
+  <span
+    accessibilityLabel="parent:child"
+    style={
+      [
+        undefined,
+        undefined,
+      ]
+    }
+    testID="parent:child"
+  >
+    <Text
+      accessibilityLabel="absolute"
+      style={
+        [
+          undefined,
+          undefined,
+        ]
+      }
+      testID="absolute"
+    >
+      Some inner text
+    </Text>
+  </span>
+</View>
+`;
+
+exports[`enabled roles Should merge classes 1`] = `
+<View
+  accessibilityLabel="parent"
+  style={
+    [
+      {
+        "flex": 2,
+      },
+      {
+        "flex": 1,
+      },
+    ]
+  }
+  testID="parent"
+/>
+`;
+
+exports[`enabled roles Should pass style to the child 1`] = `
+<View
+  accessibilityLabel="parent"
+  style={
+    [
+      {
+        "flex": 1,
+      },
+      undefined,
+    ]
+  }
+  testID="parent"
+/>
+`;
+
+exports[`enabled roles Should pass unknown props to the child 1`] = `
+<View
+  accessibilityLabel="parent"
+  style={
+    [
+      undefined,
+      undefined,
+    ]
+  }
+  testID="parent"
+  unknownProp="value"
+/>
+`;

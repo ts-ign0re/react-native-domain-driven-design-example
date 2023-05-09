@@ -1,0 +1,96 @@
+{
+  "$caption01": {
+    "fontFamily": "System",
+    "fontSize": "10rem",
+    "lineHeight": "12rem",
+    "fontWeight": "400",
+    "letterSpacing": "0.07rem"
+  },
+  "$caption02": {
+    "fontFamily": "System",
+    "fontSize": "12rem",
+    "lineHeight": "16rem",
+    "fontWeight": "400"
+  },
+  "$button01": {
+    "fontFamily": "System",
+    "fontSize": "12rem",
+    "lineHeight": "16rem",
+    "fontWeight": "700",
+    "letterSpacing": "0.2rem",
+    "textTransform": "uppercase"
+  },
+  "$button02": {
+    "fontFamily": "System",
+    "fontSize": "14rem",
+    "lineHeight": "20rem",
+    "fontWeight": "700",
+    "letterSpacing": "0.2rem",
+    "textTransform": "uppercase"
+  },
+  "$button03": {
+    "fontFamily": "System",
+    "fontSize": "16rem",
+    "lineHeight": "24rem",
+    "fontWeight": "700",
+    "letterSpacing": "0.2rem",
+    "textTransform": "uppercase"
+  },
+  "$body01": {
+    "fontFamily": "System",
+    "fontSize": "14rem",
+    "lineHeight": "20rem",
+    "fontWeight": "400"
+  },
+  "$body02": {
+    "fontFamily": "System",
+    "fontSize": "14rem",
+    "lineHeight": "21rem",
+    "fontWeight": "400"
+  },
+  "$heading01": {
+    "fontFamily": "System",
+    "fontSize": "12rem",
+    "lineHeight": "16rem",
+    "letterSpacing": "0.2rem",
+    "textTransform": "uppercase",
+    "fontWeight": "600"
+  },
+  "$heading02": {
+    "fontFamily": "System",
+    "fontSize": "14rem",
+    "lineHeight": "20rem",
+    "fontWeight": "600"
+  },
+  "$heading03": {
+    "fontFamily": "System",
+    "fontSize": "14rem",
+    "lineHeight": "21rem",
+    "fontWeight": "700"
+  },
+  "$display01": {
+    "fontFamily": "System",
+    "fontSize": "20rem",
+    "lineHeight": "28rem",
+    "fontWeight": "600"
+  },
+  "$display02": {
+    "fontFamily": "System",
+    "fontSize": "28rem",
+    "lineHeight": "34rem",
+    "fontWeight": "600"
+  },
+  "$display03": {
+    "fontFamily": "System",
+    "fontSize": "32rem",
+    "lineHeight": "40rem",
+    "fontWeight": "600"
+  },
+  "$display04": {
+    "fontFamily": "System",
+    "fontSize": "40rem",
+    "lineHeight": "55rem",
+    "fontWeight": "300",
+    "letterSpacing": "0.4rem"
+  }
+}
